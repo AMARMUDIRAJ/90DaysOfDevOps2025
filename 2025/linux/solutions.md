@@ -1,8 +1,3 @@
-Here's your properly formatted **README.md** file for **Networking for DevOps: Essentials**:  
-
----
-
-```md
 # 🌐 Networking for DevOps: Essentials
 
 ## 🚀 Master Networking Concepts for DevOps Engineers  
